@@ -5,7 +5,6 @@ public class GitDemo {
         System.out.println("Hello World!");
         System.out.println("hello2");
         System.out.println("123");
-        System.out.println("123");
         int n = getNum(500);
     }
 
