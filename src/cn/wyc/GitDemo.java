@@ -6,6 +6,7 @@ public class GitDemo {
         System.out.println("hello2");
         System.out.println("123");
         int n = getNum(500);
+        System.out.println("branch3");
     }
 
     public static int getNum(int i){
